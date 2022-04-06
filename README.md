@@ -1,6 +1,6 @@
 ## Unit 19 Homework: Cryptocurrency Wallet
 
-![An image shows a wallet with bitcoin.](images/intro.png)
+![Images](images/intro.png)
 
 ### Background
 
@@ -10,8 +10,9 @@ In this Challenge, you will complete the code that enables your customers to sen
 
 ### Findings
 
+![Images](images/streamlit_2.png)
 
-![An image shows a wallet with bitcoin.](images/intro.png)
 
+![Images](images/ganache.png)
 
-![An image shows a wallet with bitcoin.](images/intro.png)
+![Images](images/ganache_history.png)
